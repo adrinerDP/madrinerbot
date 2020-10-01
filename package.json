@@ -1,0 +1,19 @@
+{
+  "name": "madrinerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "adrinerDP <me@adrinerdp.co>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.0",
+    "node-emoji": "^1.10.0",
+    "number-to-words": "^1.2.4",
+    "ololog": "^1.1.162",
+    "redis": "^3.0.2",
+    "sync-request": "^6.1.0",
+    "words-to-numbers": "^1.5.1"
+  }
+}
